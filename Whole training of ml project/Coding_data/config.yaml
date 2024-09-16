@@ -1,0 +1,57 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    dbaldwin:
+      email: dbaldwin@gmail.com
+      failed_login_attempts: 1
+      logged_in: false
+      name: David Baldwin
+      password: $2b$12$sBSEuNFavKdqRck4ZPaxLenSMrfySwZvehbQF1hFWDTtQwpbB8S6q
+    gorish11:
+      email: gorishchopra8@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Gorish
+      password: $2b$12$jw9AUIXy0bTJzaUwjJlSOOoEhHNF1A1200Sa7vczDzSnBSt/A8PPW
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: true
+      name: John Smith
+      password: $2b$12$pkBZODmBN/TsirSicCb1teFs6ERLn/mIdUY.UBTSvw5Y2xQEb492S
+    noor1:
+      email: gurnoor12@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Gurnoor
+      password: $2b$12$W1dwiWz2Ad9c67sB6erq2uU2LuTgnz.vgXUn0H/S3ssRqzG0i5dhK
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$zZ9B03N/S0Dd28QRXI49bOaYrrp2mAwkumw.v5PYDvBBVoEktQUHy
+    rishav1717:
+      email: rishavchopra10880@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rishav Chopra
+      password: $2b$12$OTMrtQOHXFFPW2pDx2P6I.QiR9lqSNXWB8QPorxSXevCXWL/c6Ui2
+    rishi117:
+      email: rishavchopra1080@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rishav Chopra
+      password: $2b$12$czQVsQc6otbSUHxEyuQFsOzA.FvlwnEwY3r2s32LOeC/gOBh0e4AW
+    shriya12:
+      email: shriya123@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Shriya
+      password: $2b$12$BP/bVo/71JjNXoFsOb5gZuOVs5.gCdaJYwxkBh9BP2fugAbmt/29y
+pre-authorized:
+  emails:
+  - melsby@gmail.com
